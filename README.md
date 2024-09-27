@@ -1,2 +1,2 @@
-# Rhytmix
-A music player
+# PopCornTV
+A tv show and movie streaming app
